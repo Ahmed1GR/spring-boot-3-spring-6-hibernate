@@ -7,7 +7,7 @@
 
 ## My Certificate
 
-![Certificate](https://github.com/Ahmed1GR/spring-boot-3-spring-6-hibernate/blob/main/certificate.jpg)
+![Certificate](https://github.com/Ahmed1GR/spring-boot-3-spring-6-hibernate/blob/main/images/certificate.jpg)
 
 
 ## Description
