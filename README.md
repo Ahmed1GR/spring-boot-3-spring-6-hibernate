@@ -5,6 +5,11 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
+## My Certificate
+
+![Certificate](https://github.com/Ahmed1GR/spring-boot-3-spring-6-hibernate/blob/main/certificate.jpg)
+
+
 ## Description
 This project is designed for beginners to learn the integration of Spring Boot 3, Spring Framework 6, and Hibernate ORM with MySQL database.  
 It covers building RESTful APIs with CRUD operations and connecting to a MySQL database using Hibernate.
